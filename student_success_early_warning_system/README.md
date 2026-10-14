@@ -1,9 +1,6 @@
-# AI-Based Student Performance Prediction System
+# AI-Based student success warning system
 
-## Live Demo
 
-- Streamlit app: https://student-performance-prediction-qbjvdcjrgthfs3uzwfgwgi.streamlit.app/
-- GitHub repository: https://github.com/wpdevgenius-cloud/student-performance-prediction
 
 ## Overview
 This Applied AI internship project estimates a student’s final Mathematics grade (`G3`, 0–20) from academic, demographic, social, and behavioural information. It includes a reproducible scikit-learn pipeline, model comparison, explainability charts, tests, a Streamlit application, and presentation materials.
